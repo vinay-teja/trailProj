@@ -2,7 +2,7 @@
 
 # Instructions
 
-Write a program that interprets the Body Mass Index (BMI) based on a user's weight and height.
+This program interprets the Body Mass Index (BMI) based on a user's weight and height.
 
 It should tell them the interpretation of their BMI based on the BMI value.
 
@@ -37,38 +37,3 @@ height = 1.75
 ```
 Your BMI is 28, you are slightly overweight.
 ```
-
-e.g. When you hit **run**, this is what should happen:   
-
-![](https://cdn.fs.teachablecdn.com/mGRynIETXuVqoDk8unci)
-
-The testing code will check for print output that is formatted like one of the lines below:
-
-```
-"Your BMI is 18, you are underweight."
-"Your BMI is 22, you have a normal weight."
-"Your BMI is 28, you are slightly overweight."
-"Your BMI is 33, you are obese."
-"Your BMI is 40, you are clinically obese."
-```
-
-Hint
-
-1. Try to use the **exponent** operator in your code.
-2. Remember to **round** your result to the nearest whole number. 
-3. Make sure you include the words in **bold** from the interpretations. 
-
-# Test Your Code
-
-Before checking the solution, try copy-pasting your code into this repl: 
-
-[https://repl.it/@appbrewery/day-3-2-test-your-code](https://repl.it/@appbrewery/day-3-2-test-your-code)
-
-This repl includes my testing code that will check if your code meets this assignment's objectives. 
-
-
-
-
-# Solution
-
-[https://repl.it/@appbrewery/day-3-2-solution](https://repl.it/@appbrewery/day-3-2-solution)
